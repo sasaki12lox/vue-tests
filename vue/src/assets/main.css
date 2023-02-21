@@ -1,0 +1,17 @@
+:root {
+	--loader-size: 18px;
+}
+
+html {
+	box-sizing: border-box;
+}
+
+html, body, #app {
+	height: 100%;
+}
+
+* {
+	box-sizing: inherit;
+	padding: 0;
+	margin: 0;
+}

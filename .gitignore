@@ -1,0 +1,14 @@
+#nest application
+server/node_modules
+server/dist
+server/test
+server/package-lock.json
+server/.env
+
+#vue application
+vue/node_modules
+vue/dist
+vue/package-lock.json
+
+#unknow
+.vscode/
